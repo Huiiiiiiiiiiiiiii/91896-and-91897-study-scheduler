@@ -1,0 +1,286 @@
+{
+    "Hui": {
+        "username": "Hui",
+        "password_hash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+        "subjects": {
+            "English": {
+                "hours": 2.0,
+                "priority": "Medium",
+                "deadline": null,
+                "goal_hours": 2.0,
+                "target_grade": ""
+            },
+            "Maths": {
+                "hours": 2.0,
+                "priority": "High",
+                "deadline": null,
+                "goal_hours": 2.0,
+                "target_grade": ""
+            },
+            "Art": {
+                "hours": 2.0,
+                "priority": "Low",
+                "deadline": null,
+                "goal_hours": 2.0,
+                "target_grade": ""
+            },
+            "Science": {
+                "hours": 5.0,
+                "priority": "Medium",
+                "deadline": null,
+                "goal_hours": 5.0,
+                "target_grade": ""
+            },
+            "Ssese": {
+                "hours": 5.0,
+                "priority": "Medium",
+                "deadline": null,
+                "goal_hours": 5.0,
+                "target_grade": ""
+            },
+            "Vsvrrev": {
+                "hours": 5.0,
+                "priority": "Medium",
+                "deadline": null,
+                "goal_hours": 5.0,
+                "target_grade": ""
+            }
+        },
+        "logs": {},
+        "theme": "light",
+        "pomodoro_count": 0,
+        "focus_time_today": 0,
+        "work_minutes": 9,
+        "break_minutes": 5,
+        "tasks": [
+            {
+                "id": 1,
+                "title": "internal",
+                "subject": "Maths",
+                "deadline": "22/08/2026",
+                "priority": "Medium",
+                "completed": true,
+                "created_at": "12/08/2026"
+            }
+        ],
+        "next_task_id": 2
+    },
+    "yyy": {
+        "username": "yyy",
+        "password_hash": "bcb15f821479b4d5772bd0ca866c00ad5f926e3580720659cc80d39c9d09802a",
+        "subjects": {},
+        "logs": {},
+        "theme": "light",
+        "pomodoro_count": 0,
+        "focus_time_today": 0,
+        "work_minutes": 25,
+        "break_minutes": 5,
+        "tasks": [],
+        "next_task_id": 1
+    },
+    "yiyiyi": {
+        "username": "yiyiyi",
+        "password_hash": "a171bc15d7397ebcc5d784e641e923063e0de066038bf2e9947028b935e066d2",
+        "subjects": {
+            "eueueuugug": {
+                "hours": 4.0,
+                "priority": "Medium",
+                "deadline": null,
+                "goal_hours": 5.0,
+                "target_grade": ""
+            }
+        },
+        "logs": {},
+        "theme": "light",
+        "pomodoro_count": 0,
+        "focus_time_today": 0,
+        "work_minutes": 25,
+        "break_minutes": 5,
+        "tasks": [],
+        "next_task_id": 1
+    },
+    "111": {
+        "username": "111",
+        "password_hash": "bcb15f821479b4d5772bd0ca866c00ad5f926e3580720659cc80d39c9d09802a",
+        "subjects": {
+            "sdfdf": {
+                "hours": 1.0,
+                "priority": "Medium",
+                "deadline": null,
+                "goal_hours": 5.0,
+                "target_grade": ""
+            }
+        },
+        "logs": {},
+        "theme": "light",
+        "pomodoro_count": 0,
+        "focus_time_today": 0,
+        "work_minutes": 25,
+        "break_minutes": 5,
+        "tasks": [],
+        "next_task_id": 1
+    },
+    "abc": {
+        "username": "abc",
+        "password_hash": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+        "subjects": {
+            "Maths": {
+                "hours": 2.0,
+                "priority": "Medium",
+                "deadline": null,
+                "goal_hours": 2.0,
+                "target_grade": ""
+            },
+            "Art": {
+                "hours": 5.0,
+                "priority": "Medium",
+                "deadline": null,
+                "goal_hours": 5.0,
+                "target_grade": ""
+            },
+            "Digital Tech": {
+                "hours": 5.0,
+                "priority": "Medium",
+                "deadline": null,
+                "goal_hours": 5.0,
+                "target_grade": ""
+            },
+            "Music": {
+                "hours": 5.0,
+                "priority": "Medium",
+                "deadline": null,
+                "goal_hours": 5.0,
+                "target_grade": ""
+            },
+            "English": {
+                "hours": 5.0,
+                "priority": "Medium",
+                "deadline": null,
+                "goal_hours": 5.0,
+                "target_grade": ""
+            },
+            "Chemistry": {
+                "hours": 5.0,
+                "priority": "Medium",
+                "deadline": null,
+                "goal_hours": 5.0,
+                "target_grade": ""
+            },
+            "Physics": {
+                "hours": 5.0,
+                "priority": "Medium",
+                "deadline": null,
+                "goal_hours": 5.0,
+                "target_grade": ""
+            }
+        },
+        "logs": {},
+        "theme": "light",
+        "pomodoro_count": 0,
+        "focus_time_today": 0,
+        "work_minutes": 25,
+        "break_minutes": 5,
+        "tasks": [
+            {
+                "id": 1,
+                "title": "internal",
+                "subject": null,
+                "deadline": "20/09/2026",
+                "priority": "Medium",
+                "completed": false,
+                "created_at": "12/08/2026"
+            },
+            {
+                "id": 2,
+                "title": "ii",
+                "subject": null,
+                "deadline": "10/09/2026",
+                "priority": "Medium",
+                "completed": true,
+                "created_at": "12/08/2026"
+            },
+            {
+                "id": 3,
+                "title": "udufh",
+                "subject": null,
+                "deadline": "11/09/2026",
+                "priority": "Medium",
+                "completed": true,
+                "created_at": "12/08/2026"
+            },
+            {
+                "id": 4,
+                "title": "gggg",
+                "subject": null,
+                "deadline": "22/09/2026",
+                "priority": "Medium",
+                "completed": false,
+                "created_at": "12/08/2026"
+            },
+            {
+                "id": 5,
+                "title": "2222",
+                "subject": null,
+                "deadline": "11/09/2026",
+                "priority": "Medium",
+                "completed": false,
+                "created_at": "12/08/2026"
+            },
+            {
+                "id": 6,
+                "title": "2222",
+                "subject": null,
+                "deadline": "13/09/2026",
+                "priority": "Medium",
+                "completed": false,
+                "created_at": "12/08/2026"
+            },
+            {
+                "id": 7,
+                "title": "2222",
+                "subject": null,
+                "deadline": "20/09/2026",
+                "priority": "Medium",
+                "completed": false,
+                "created_at": "12/08/2026"
+            },
+            {
+                "id": 8,
+                "title": "2222222",
+                "subject": null,
+                "deadline": "20/09/2026",
+                "priority": "Medium",
+                "completed": false,
+                "created_at": "12/08/2026"
+            },
+            {
+                "id": 9,
+                "title": "2333",
+                "subject": null,
+                "deadline": "20/09/2026",
+                "priority": "Medium",
+                "completed": false,
+                "created_at": "12/08/2026"
+            },
+            {
+                "id": 10,
+                "title": "222333",
+                "subject": null,
+                "deadline": "20/09/2026",
+                "priority": "Medium",
+                "completed": true,
+                "created_at": "12/08/2026"
+            },
+            {
+                "id": 11,
+                "title": "298989",
+                "subject": null,
+                "deadline": "20/09/2026",
+                "priority": "Medium",
+                "completed": true,
+                "created_at": "12/08/2026"
+            }
+        ],
+        "next_task_id": 12
+    }
+}
